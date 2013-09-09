@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name 	   	   = "CTHBluetoothLibrary"
-	s.version 	   = "1.4.1"
+	s.version 	   = "1.5"
 	s.source  	   = { :svn => "https://svn.hiqo-solutions.us:8085/svnFamFarms/branches/harvest-v5.4/croptracker-harvest-ios-bluetooth-library" }
 	s.source_files = 'croptracker-harvest-ios-bluetooth-library', 'croptracker-harvest-ios-bluetooth-library/**/*.{h,m}'
 	s.frameworks   = 'CoreBluetooth', 'ExternalAccessory'
